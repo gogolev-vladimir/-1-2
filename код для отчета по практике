@@ -78,7 +78,7 @@ x_{1,2}=\frac{-b\pm\sqrt{b^2-4ac}}{2a}
 \begin{figure}[h]
 \centering
 \includegraphics[scale=0.5]{экран}
-\caption{скриньшот}\label{fig:par}
+\caption{скриньшот программы}\label{fig:par}
 \end{figure}
 
 \section{ библиографические ссылки}
